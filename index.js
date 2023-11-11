@@ -1,1 +1,1 @@
-console.log("hello world");
+const word = require('./word.js');
